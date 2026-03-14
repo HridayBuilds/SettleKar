@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- PROJECT LOGO -->
-<img src="https://via.placeholder.com/200x200.png?text=SettleKar" alt="SettleKar Logo" width="200" height="200" />
-
 # SettleKar
 
 **Split expenses. Settle debts. Stay friends.**
