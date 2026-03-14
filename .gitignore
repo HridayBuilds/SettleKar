@@ -1,0 +1,23 @@
+# macOS / editor
+.DS_Store
+.vscode/
+
+# Java / Maven
+Backend/target/
+**/target/
+
+# Node / frontend
+Frontend/settlekar-frontend/node_modules/
+**/node_modules/
+
+# Python / ML
+ML/receipt-scanner/venv/
+**/venv/
+**/__pycache__/
+*.pyc
+
+# Logs and env files
+*.log
+.env
+.env.*
+!.env.example
