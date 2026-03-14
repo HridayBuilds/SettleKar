@@ -10,7 +10,7 @@ A full-stack expense management and settlement platform with AI-powered receipt 
 |:----:|:-----------:|:-----:|:----------:|:---:|:--------:|
 | 21 | 4.0 | 19 | 15+ | S3 + RDS | Payments |
 
-**Anirveda Economania Hackathon 2026**
+**Anirveda Breach Hackathon 2026**
 
 ---
 
