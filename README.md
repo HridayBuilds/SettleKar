@@ -6,18 +6,15 @@
 
 A full-stack expense management and settlement platform with AI-powered receipt scanning, real-time balance tracking, and integrated payments.
 
-[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![AWS](https://img.shields.io/badge/AWS-S3_|_RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Razorpay](https://img.shields.io/badge/Razorpay-Payments-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.com/)
+| Java | Spring Boot | React | PostgreSQL | AWS | Razorpay |
+|:----:|:-----------:|:-----:|:----------:|:---:|:--------:|
+| 21 | 4.0 | 19 | 15+ | S3 + RDS | Payments |
 
-[![Hackathon](https://img.shields.io/badge/Anirveda_Economania-Hackathon_2026-ff6b6b?style=for-the-badge)](#)
+**Anirveda Economania Hackathon 2026**
 
 ---
 
-[Features](#-key-features) &bull; [Architecture](#-system-architecture) &bull; [Product Screens](#-product-screens) &bull; [Tech Stack](#-tech-stack) &bull; [Quick Start](#-quick-start) &bull; [API Reference](#-api-reference) &bull; [Database](#-database-schema) &bull; [Team](#-team)
+[Features](#key-features) &bull; [Architecture](#system-architecture) &bull; [Product Screens](#product-screens) &bull; [Tech Stack](#tech-stack) &bull; [Quick Start](#quick-start) &bull; [API Reference](#api-reference) &bull; [Database](#database-schema) &bull; [Team](#team)
 
 </div>
 
@@ -477,7 +474,7 @@ Contributions are welcome! Here's how to get started:
 
 ## Team
 
-Built by **Mission ImCodeable** for the [Anirveda Economania Hackathon](https://github.com/).
+Built by **Mission ImCodeable** for **Anirveda Economania Hackathon**.
 
 <!-- Add team member details below -->
 <!-- | Name | Role | GitHub |
